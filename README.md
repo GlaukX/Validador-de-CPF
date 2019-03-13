@@ -1,5 +1,5 @@
 # Validador-de-CPF
-def validarCPF(cpf):
+def validarCPF(cpf):<br>
     cpf = str(cpf)
     lista = []
     primeiro = segundo = 0
